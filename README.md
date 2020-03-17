@@ -19,7 +19,6 @@ Project3:
 The report analysis 12 movies that ﬁlm the movement of a bucket with a ﬂashlight on top of it. The main method used is Principal Component Analysis(PCA). The location of the bucket is found by converting the ﬁlm into grayscale and then ﬁltering with the Shannon window. Singular Value Decomposition has been applied to the position data matrix. Various aspects of PCA are illustrated and comparisons between diﬀerent cases are presented.
 
 Project4:
-
 The report talks about how to perform music classiﬁcations in Matlab. The main method used is the Linear Discriminant Analysis. Perform classiﬁcation by sampling 5-second clips from a variety of music. The report classiﬁes three diﬀerent cases. The ﬁrst one is classifying songs from three diﬀerent bands in three diﬀerent genres. The second one is classifying three diﬀerent bands in the Seattle area. The last one is classifying three diﬀerent genres in general where the singer is diﬀerent from each song. The accuracy achieved in the ﬁrst test is 63.64% The accuracy achieved in the second test is 60.61% The accuracy achieved in the third test is 42.42%.
 
 Project5:
